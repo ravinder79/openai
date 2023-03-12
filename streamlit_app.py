@@ -8,7 +8,7 @@ from openai.embeddings_utils import distances_from_embeddings, cosine_similarity
 st.set_page_config(layout="wide")
 
 
-openai.api_key = "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"
+openai.api_key = ""
 df=pd.read_csv('processed/embeddings.csv', index_col=0)
 df['embeddings'] = df['embeddings'].apply(eval).apply(np.array)
 

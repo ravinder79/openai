@@ -1,0 +1,219 @@
+Revenue
+The Company’s revenue includes fees earned from providing;
+•
+investment management services,
+•
+fund administration services,
+•
+fund transfer agent services, and
+•
+fund distribution services.
+Revenue is recognized for each distinct performance obligation identified in customer contracts when the performance obligation has been satisfied by transferring services to a customer either over time or at the point in time when the customer obtains control of the service. Revenue is recognized in the amount of variable or fixed consideration allocated to the satisfied performance obligation that Victory expects to be entitled to in exchange for transferring services to a customer. Variable consideration is included in the transaction price only when it is probable that a significant reversal of such revenue will not occur when the uncertainty associated with the variable consideration is subsequently resolved.
+Investment management, fund administration and fund distribution fees are generally considered variable consideration as they are typically calculated as a percentage of AUM. Fund transfer agent fees are also considered variable consideration as they are calculated as a percentage of AUM or based on the number of accounts in the fund. In such cases, the amount of fees earned is subject to factors outside of the Company’s control including customer or underlying investor contributions and redemptions and financial market volatility. These fees are considered constrained and are excluded from the transaction price until the asset values or number of accounts on which the customer is billed are calculated and the value of consideration is measurable.
+The Company has contractual arrangements with third parties to provide certain advisory, administration, transfer agent and distribution services. Management considers whether we are acting as the principal service provider or as an agent to determine whether revenue should be recorded based on the gross amount payable by the customer or net of payments to third-party service providers, respectively. Victory is considered a principal service provider if we control the service that is transferred to the customer. We are considered an agent when we arrange for the service to be provided by another party and do not control the service.
+Investment Management Fees 
+Investment management fees are received in exchange for investment management services that represent a series of distinct incremental days of investment management service. Control of investment management services is transferred to the customers over time as these customers receive and consume the benefits provided by these services. Investment management fees are calculated as a contractual percentage of AUM and are generally paid in arrears on a monthly or quarterly basis.
+AUM represents the financial assets the Company manages for clients on either a discretionary or non-discretionary basis. In general, AUM reflects the valuation methodology that corresponds to the basis used for determining revenue such as net asset value for the Victory Funds, USAA Funds and certain other pooled funds and account market value for separate accounts. For the NEC Funds, AUM represents limited partner capital commitments during the commitment period of the fund. Following the earlier of the termination of the commitment period and the beginning of any commitment period for a successor fund, AUM generally represents, depending on the fund, the lesser of a) the net asset value of the fund and b) the aggregated adjusted cost basis of each unrealized portfolio investment or the limited partner capital commitments reduced by the amount of capital contributions used to make portfolio investments that have been disposed.
+Investment management fees are recognized as revenue using a time-based output method to measure progress. Revenue is recorded at month end or quarter end when the value of consideration is measured. The amount of investment management fee revenue varies from one reporting period to another as levels of AUM change (from inflows, outflows and market movements) and as the number of days in the reporting period change.
+The Company may waive certain fees for investment management services provided to the Victory Funds, USAA Funds, VictoryShares and other pooled investment vehicles and may subsidize certain share classes of the Victory Funds, USAA Funds, VictoryShares and other pooled investment vehicles to ensure that specified operating expenses attributable to such share classes do not exceed a specified percentage. These waivers and reimbursements reduce the transaction price allocated to investment management services and are recognized as a reduction to investment management fees revenue. The amounts due to the Victory Funds, USAA Funds, VictoryShares and other pooled investment vehicles for waivers and expense reimbursements represent consideration payable to customers, which is recorded in accounts payable and accrued expenses in the Consolidated Balance Sheets, and no distinct services are received in exchange for these payments.
+Performance-based investment management fees, which include fees under performance fee and fulcrum fee arrangements, are included in the transaction price for providing investment management services. Performance-based investment management fees are calculated as a percentage of investment performance on a client’s account versus a specified benchmark or hurdle based on the terms of the contract with the customer. Performance-based investment management fees are variable consideration and are recognized as revenue when and to the extent that it is probable that a significant reversal of the cumulative revenue for the contractual performance period will not occur. Performance-based investment management fees recognized as revenue in the current period may pertain to performance obligations satisfied in prior periods. Fulcrum fee arrangements include a performance fee adjustment that increases or decreases the total investment management fee depending on whether the assets being managed experienced better or worse investment performance than the index specified in the customer’s contract. The performance fee adjustment arrangement with certain equity and fixed income USAA Funds took effect on July 1, 2020 and is calculated monthly based on the investment performance of those funds relative to their specified benchmark indexes over the discrete performance period ending with that month. 
+Fund Administration Fees
+The Company recognizes fund administration fees as revenue using a time-based output method to measure progress. Fund administration fees are determined based on the contractual rate applied to average daily net assets of the Victory Funds, USAA Funds and VictoryShares for which administration services are provided. Revenue is recorded on a monthly basis when the value of consideration is measured using actual average daily net assets and constraints are removed. The Company’s fund administration fee revenue is recorded in fund administration and distribution fees in the Consolidated Statements of Operations.
+The Company has contractual arrangements with a third party to provide certain sub-administration services. We are the primary obligor under the contracts with the Victory Funds, USAA Funds and VictoryShares and have the ability to select the service provider and establish pricing. As a result, fund administration fees and sub-administration expenses are recorded on a gross basis.
+Fund Transfer Agent Fees
+The Company recognizes fund transfer agent fees using a time-based output method to measure progress. Fund transfer agent fees are determined based on the contractual rate applied to either the average daily net assets of the USAA Funds for which transfer agent services are provided or number of accounts in the USAA Funds. Revenue is recorded on a monthly basis when the value of consideration is measured using actual average daily net assets or actual number of accounts and constraints are removed. The Company’s fund transfer agent fee revenue is recorded in fund administration and distribution fees in the Consolidated Statements of Operations.
+The Company also receives fees for sub-transfer agency services under contracts with the Victory Funds for member class shares. Sub-transfer agency fees are recognized and recorded in a manner similar to fund transfer agent fees and are recorded in fund administration and distribution fees in the Consolidated Statements of Operations.
+The Company has contractual arrangements with a third party to provide certain sub-transfer agent services. As the Company is the primary obligor under the transfer agency contracts with the USAA Funds and has the ability to select the service provider and establish pricing, fund transfer agent fees and sub-transfer agent expenses are recorded on a gross basis.
+Fund Distribution Fees
+The Company receives compensation for sales and sales-related services promised under distribution contracts with the Victory Funds and USAA Funds. Revenue is measured in an amount that reflects the consideration to which the Company expects to be entitled in exchange for providing distribution services. Distribution fees are generally calculated as a percentage of average net assets in the Victory Funds and USAA Funds. The Company’s performance obligation is satisfied at the point in time when control of the services is transferred to customers, which is upon investor subscription or redemption.
+Based on the nature of the calculation, the revenue for these services is accounted for as variable consideration. The Company may recognize distribution fee revenue in the current period that pertains to performance obligations satisfied in prior periods as variable consideration is recognized only when uncertainties are resolved. The Company’s distribution fee revenue is recorded in fund administration and distribution fees in the Consolidated Statements of Operations.
+The Company has contractual arrangements with third parties to provide certain distribution services. The Company is the primary obligor under the contracts with the Victory Funds and USAA Funds and has the ability to select the service provider and establish pricing. Substantially all of the Company’s revenue is recorded gross of payments made to third parties.
+Costs Incurred to Obtain or Fulfill Customer Contracts
+The Company is required to capitalize certain costs directly related to the acquisition or fulfillment of a contact with a customer. Victory has not identified any sales-based compensation or similar costs that meet the definition of an incremental cost to acquire a contract and as such we have no intangible assets related to contract acquisitions.
+Direct costs incurred to fulfill services under the Company’s distribution contracts include sales commissions paid to third party dealers for the sale of Class C Shares. The Company may pay upfront sales commissions to dealers and institutions that sell Class C shares of the participating Victory Funds at the time of such sale. Upfront sales commission payments with respect to Class C shares equal 1.00% of the purchase price of the Class C shares sold by the dealer or institution. When the Company makes an upfront payment to a dealer or institution for the sale of Class C shares, the Company capitalizes the cost of such payment, which is recorded in prepaid expenses in the Consolidated Balance Sheets and amortizes the cost over a 12-month period, the estimated period of benefit.
+Valuation of AUM and fund investments
+The fair value of assets under management of the Victory Funds, USAA Funds and VictoryShares is primarily determined using quoted market prices or independent third-party pricing services or broker price quotes. In certain circumstances, a quotation or price evaluation is not readily available from a pricing service. In these cases, pricing is determined by management based on a prescribed valuation process that has been approved by the directors/trustees of the sponsored products. The same prescribed valuation process is used to price securities in separate accounts and the Company’s other non-alternative investment vehicles for which a quotation or price evaluation is not readily available from a pricing service. 
+The fair value of Level III assets held by alternative investment vehicles is determined under the respective valuation policy for each fund. The valuation policies address the fact that substantially all the investments of a fund may not have readily available market information and therefore the fair value for these assets is typically determined using unobservable inputs and models that may include subjective assumptions. AUM reported by the Company for alternative investment vehicles may not necessarily equal the funds’ net asset values or the total fair value of the funds’ portfolio investments as AUM represents the basis for calculating management fees. 
+For the periods presented, less than one percent of the Company’s total AUM were Level III assets priced without using a quoted market price, broker price quote or pricing service quotation.
+  
+NOTE 4. ACQUISITION
+USAA AMCO Acquisition
+On July 1, 2019, the Company completed the USAA AMCO Acquisition. The USAA AMCO Acquisition expanded and diversified the Company’s investment platform, particularly in the fixed income and solutions asset classes, and increased the Company’s size and scale. Additional products added to the investments platform include target date and target risk strategies, managed volatility mutual funds, active fixed income ETFs, sub-advised and multi-manager equity funds. The acquisition also added to the Company’s lineup of asset allocation portfolios and smart beta equity ETFs and provided the Company the rights to offer products and services using the USAA brand and the opportunity to offer its products to USAA members through a direct investor channel.
+Contingent Consideration
+Under the terms of the purchase agreement for the USAA AMCO Acquisition, a maximum of $150.0 million ($37.5 million per year) in contingent payments is payable to sellers based on the annual revenue of USAA Adviser attributable to all “non-managed money”-related AUM in each of the first four annual earn out periods following the closing. To receive any contingent payment in respect of “non-managed money”-related assets for a given year, annual revenue from “non-managed money”-related assets must be at least 80% of the revenue run-rate (as calculated under the purchase agreement) of the USAA Adviser’s “non-managed money”-related assets under management as of the acquisition closing date, and to achieve the maximum contingent payment for a given year, such annual revenue must total at least 100% of that acquisition date revenue run-rate. 
+The estimated fair value for contingent consideration payable to sellers is estimated using the real options method. Revenue related to “non-managed money” assets is simulated in a risk-neutral framework to calculate expected probability-weighted earn out payments, which are then discounted from the expected payment dates at the relevant cost of debt. Significant assumptions and inputs include the “non-managed money” revenue projected annual growth rate, the market price of risk, which adjusts the projected revenue growth rate to a risk-neutral expected growth rate, revenue volatility and discount rate. The market price of risk and revenue volatility are based on data for comparable companies. As the contingent consideration represents a subordinate, unsecured claim of the Company, the Company assesses a discount rate which incorporates adjustments for credit risk and the subordination of the contingent consideration
+The fair value of contingent consideration payable to sellers was estimated at $27.7 million and $68.8 million at December 31, 2022 and 2021, respectively, and $98.8 million as of the acquisition date. The Company recorded a decrease in the liability of $3.6 million in 2022 and an increase in the liability of $13.8 million and $11.3 million in 2021 and 2020, respectively, in change in value of consideration payable for acquisition of business in the Consolidated Statements of Operations. 
+As of December 31, 2022, the Company has paid a total of $112.5 million (the $37.5 million maximum payment for each of the first three earn out periods) in contingent consideration to sellers.
+Significant inputs to the valuation of contingent consideration payable to sellers as of December 31, 2022 and 2021 and the acquisition date are as follows and are approximate values:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USAA Acquired Companies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Net income attributable to the USAA Acquired Companies for the first six months of 2020 is impractical to determine as the Company does not prepare discrete financial information at that level.
+THB Acquisition 
+On March 1, 2021, the Company completed the acquisition of certain assets of THB, including without limitation, (i) certain investment advisory and business contracts, (ii) certain books and records, (iii) the investment performance track record, and (iv) all business intellectual property and proprietary software. In addition, the  Company hired the THB investment team and acquired THB AUM of $547 million. THB manages responsible investment portfolios in the micro-cap, small-cap and mid-cap asset classes, including U.S., global and international strategies. 
+Because substantially all of the fair value of the acquired assets was concentrated in a single identifiable asset, the transaction was accounted for as an asset acquisition. Estimated acquisition costs of $0.6 million were allocated to a definite-lived customer relationship intangible asset.
+NEC Acquisition 
+On November 1, 2021, VCM completed the acquisition of 100% of the equity interests in NEC. Founded in 2004 and based in Hanover, New Hampshire, NEC is an alternative asset management firm focused on debt and equity investments in clean energy infrastructure projects and companies through private closed-end funds (the “NEC Funds”). 
+The NEC Acquisition purchase price was $63.1 million, which included $62.8 million in cash paid at closing, net of cash acquired, and $0.3 million of net working capital adjustments paid to sellers in March 2022. Consideration paid at closing was funded with balance sheet cash and proceeds from borrowings under the Company’s revolving line of credit. All borrowings under the revolving line of credit were repaid prior to December 31, 2021.
+Under the terms of the purchase agreement, the Company will pay up to an additional $35.0 million in cash based on net revenue growth over a six year period following the closing date. The purchase agreement specifies net revenue and payment targets for the 36-month, 48-month and 60-month periods beginning on November 30, 2021 (the “Start Date”) for the contingent payments. It also provides for advance payments and catch-up payments to be made based on actual NEC net management fee revenue, as defined in the purchase agreement, as measured at the end of each 12 month anniversary of the Start Date over a six year period. The maximum amount of contingent payments is due, less any contingent payments previously paid, upon the occurrence of certain specified events within a five year period following the Start Date.
+The Company determined that substantially all of the contingent payments payable per the NEC purchase agreement represent compensation for post-closing services. Accordingly, these contingent payments were excluded from the purchase price for the NEC Acquisition and a liability for these contingent payments was not recorded on the acquisition date. The Company recognizes compensation expense over the estimated service period on a straight-line basis in an amount equal to the total contingent payments currently forecasted to be paid. As of December 31, 2022 and 2021, the Company had recorded $8.1 million and $1.1 million, respectively, in NEC contingent payment compensation expense, which is included in personnel compensation and benefits in the Consolidated Statements of Operations. A liability for the corresponding amount is recorded in accrued compensation and benefits in the Consolidated Balance Sheets.
+The NEC Acquisition purchase price of $62.8 million was allocated to the assets acquired and liabilities assumed based upon their estimated fair values on the acquisition date. The Company used an independent valuation specialist to assist with the determination of fair value for certain of the acquired assets and assumed liabilities disclosed below. The carried interests in the existing NEC Funds were not acquired in the transaction. No adjustments were made to the purchase price allocation during the one year measurement period following the closing date.
+The excess purchase price over the estimated fair values of assets acquired and liabilities assumed of $41.0 million was recorded to goodwill in the Consolidated Balance Sheets, all of which is expected to be deductible for tax purposes. The goodwill arising from the acquisition primarily results from future earnings and cash flows from new funds expected to be launched on the NEC alternative investment platform.
+
+WestEnd Acquisition 
+On and effective December 31, 2021, the Company completed the acquisition of 100% of the equity interests of WestEnd Advisors, LLC (“WestEnd Acquisition”). Founded in 2004, and headquartered in Charlotte, North Carolina, WestEnd is an ETF strategist advisor that provides financial advisors with a turnkey, core model allocation strategy for either a holistic solution or complementary source of alpha. The firm offers four primary ETF strategies and one large cap core strategy in Separately Managed Account (SMA) structures.
+The aggregate purchase price for the WestEnd Acquisition was $716.1 million, net of cash acquired, which includes (i) $475.8 million in cash paid at closing (the “WestEnd Closing”) net of cash acquired, (ii) the acquisition date value of contingent payments due to sellers of $239.7 million and iii) $0.6 million paid in cash to sellers in April 2022 for net working capital adjustments. The contingent earn-out payments are based on net revenue of the WestEnd business during each of the first four years following the WestEnd Closing, subject to certain “catch-up” provisions over a five and one half year period following the WestEnd Closing. A maximum of $320.0 million ($80.0 million per year) in earn-out payments may be paid. 
+In connection with the closing of the WestEnd Acquisition, the Company entered into the Third Amendment to the 2019 Credit Agreement and obtained incremental term loans in an aggregate principal amount of $505.0 million to fund the acquisition and pay fees and expenses related to the transaction. Please refer to Note 11, Debt, for more information on the 2021 Incremental Term Loans.
+A total of $2.9 million of the cash paid at closing was placed in escrow. In April 2022, the $0.5 million of escrow funds reserved for purchase price adjustments was released to sellers. As of December 31, 2022, the remaining $2.4 million of escrow funds remained available to compensate the Company for eligible claims under the purchase agreement’s indemnification provisions. 
+The purchase price of $716.1 million was allocated to the assets acquired and liabilities assumed based upon their estimated fair values at the date of the WestEnd Acquisition. The Company used an independent valuation specialist to assist with the determination of fair value for certain of the acquired assets and assumed liabilities disclosed below. No adjustments were made to the purchase price allocation during the one year measurement period following the closing date.
+The excess purchase price over the estimated fair values of assets acquired and liabilities assumed of $536.0 million was recorded to goodwill in the Consolidated Balance Sheets, all of which is expected to be deductible for tax purposes. The goodwill arising from the acquisition primarily results from revenue synergies expected from combining WestEnd and Victory distribution platforms and sales efforts. A maximum of $320.0 million ($80.0 million per year) is payable to sellers in contingent payments. The estimated fair value of contingent consideration payable to sellers was $207.7 million at December 31, 2022 and $239.7 million as of the acquisition date. Significant inputs to the valuation of contingent consideration payable to sellers as of December 31, 2022 and 2021 are as follows and are approximate values:
+ As the WestEnd Acquisition was effective at market close on December 31, 2021, the Company’s operating results for 2021 do not include WestEnd. 
+The following Unaudited Pro Forma Condensed Combined Statements of Operations are provided for illustrative purposes only and assume that the acquisition occurred on January 1, 2020. This unaudited information should not be relied upon as indicative of historical results that would have been obtained if the acquisition had occurred on that date, nor of the results that may be obtained in the future.
+The historical consolidated financial information of the Company and WestEnd have been adjusted to give effect to unaudited pro forma events that are directly attributable to the WestEnd Acquisition. These amounts have been calculated after adjusting the results of WestEnd and the Company to reflect additional interest expense, intangible asset amortization, acquisition-related costs, transaction-related compensation costs and income taxes that would have been expensed assuming the WestEnd Acquisition was consummated on January 1, 2020.
+
+Acquisition-related costs
+Costs related to acquisitions of businesses and assets are summarized below and include legal and filing fees, advisory services, mutual fund proxy voting costs and other one‑time expenses related to the transactions. Included in USAA AMCO acquisition-related costs in 2021 is a liability for one-time payments for assets not acquired in the transaction. 
+  
+NOTE 5. FAIR VALUE MEASUREMENTS
+The Company determines the fair value of certain financial and nonfinancial assets and liabilities. Fair value is determined based on the price that would be received for an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Fair value determinations utilize a valuation hierarchy based upon the transparency of inputs used in the valuation of an asset or liability.
+Classification within the fair value hierarchy contains three levels:
+•
+Level 1—Valuation inputs are unadjusted quoted market prices for identical assets or liabilities in active markets.
+•
+Level 2—Valuation inputs are quoted prices for identical assets or liabilities in markets that are not active, quoted market prices for similar assets and liabilities in active markets and other observable inputs directly or indirectly related to the asset or liability being measured.
+•
+Level 3—Valuation inputs are unobservable and significant to the fair value measurement. These inputs reflect management's own assumptions about the assumptions a market participant would use in pricing the asset or liability.

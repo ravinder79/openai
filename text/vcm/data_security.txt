@@ -1,0 +1,12 @@
+Data security
+
+The virtual interconnectedness of nearly all web-enabled devices creates potential cyber risks and ongoing challenges for financial services firms like Victory Capital. Our company takes data security seriously because it is crucial to our company’s sustainability and long-term value creation.
+Victory Capital has a number of processes and procedures in place to reduce cyber risk and data breaches from internal or external threats, whether they are deliberate or accidental. We have a number of administrative, technical, and physical security controls in place to protect the integrity and confidentiality of data.
+		We conduct annual security awareness training and periodically conduct phishing exercises to reinforce that training
+		We use data centers that are geographically dispersed and independent of our office locations
+		We perform annual business continuity and disaster recovery plan testing
+		We conduct penetration testing and security assessments to evaluate our overall security to confirm we can adequately withstand evolving and increasingly sophisticated threats
+Not only is protecting data crucial to Victory Capital’s business operations, it is also critical to maintaining our clients’ privacy.
+With the number of cyber-related attacks continuing to rise, there is no shortage of attention to this topic. Although we have an assortment of technical controls to protect our environment, a well-informed workforce – the “human firewall” – is our most effective cybersecurity risk mitigation. Security is everyone’s responsibility. 
+
+Jeff A. Dietry, CISM, Chief Information Security Officer Victory Capital

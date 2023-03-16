@@ -1,0 +1,94 @@
+2021 Debt Repricing
+On February 18, 2021, the Company entered into the Second Amendment (the “Second Amendment”) to the 2019 Credit Agreement with the other loan parties thereto, Barclays Bank PLC, as administrative agent, and the Royal Bank of Canada as fronting bank. Pursuant to the Second Amendment, the Company repriced the existing term loans with replacement term loans in an aggregate principal amount of $755.7 million (the “Repriced Term Loans”). The Repriced Term Loans have substantially the same terms as the previously existing term loans, including the same maturity date of July 2026, except that the Repriced Term Loans provided for a reduced applicable margin on LIBOR of 25 basis points. After the Second Amendment, the applicable margin on LIBOR under the Repriced Term Loans was 2.25%.
+2021 Incremental Term Loans 
+On December 31, 2021, the Company entered into the Third Amendment (the “Third Amendment”) to the 2019 Credit Agreement with the guarantors party thereto, Barclays Bank PLC, as administrative agent, and the lenders party thereto from time to time. Pursuant to the Third Amendment, the Company obtained incremental term loans (the “2021 Incremental Term Loans”) in an aggregate principal amount of $505.0 million and used the proceeds to fund the WestEnd Acquisition and to pay fees and expenses incurred in connection therewith. The 2021 Incremental Term Loans mature in December 2028 and bear interest at an annual rate equal to, at the option of the Company, either LIBOR (adjusted for reserves and subject to a 50 basis point floor) plus a margin of 2.25% or an alternate base rate plus a margin of 1.25%.
+Original issue discount was $2.5 million for the 2021 Incremental Term Loans. The Company incurred a total of $9.1 million of other third party costs related to the 2021 Incremental Term Loans, which were recorded as term loan debt issuance costs.
+2022 LIBOR to Term SOFR Rate Transition
+On September 23, 2022, the Company entered into the Fourth Amendment (the “Fourth Amendment”) to the 2019 Credit Agreement to change the interest rate on the Repriced Term Loans and 2021 Incremental Term Loans from LIBOR to a rate based on SOFR plus a ten-basis point credit spread adjustment. There was no change to the applicable margin on the referenced rate as a result of the Fourth Amendment.
+The LIBOR rate loans outstanding as of the Fourth Amendment’s effective date continued as LIBOR rate loans until the end of their then current interest periods. The 2021 Incremental Term Loans converted into Term SOFR loans on September 30, 2022, while the Repriced Term Loans converted into Term SOFR loans on October 6, 2022. Also on October 6, 2022, the interest periods for the Repriced Term Loans and 2021 Incremental Term Loans were aligned and the three-month Term SOFR rate was elected for all the Company’s term loans.
+2020 Swap Transaction
+On March 27, 2020, the Company executed a floating-to-fixed interest rate swap transaction (“Swap”) to effectively fix the interest rate at 3.465% on $450 million of its outstanding Term Loan through the Term Loan maturity date of July 2026. Pursuant to the Second Amendment, the Company lowered the spread on the Term Loan by 0.25% resulting in a new fixed rate of 3.215% on the $450 million of Term Loan subject to the Swap. On September 26, 2022, the Company and the Swap counterparty executed an amendment to the Swap (“the Swap Amendment”) to update LIBOR conventions to SOFR conventions and to modify the fixed rate for the change from three-month LIBOR to three-month Term SOFR effective on October 6, 2022. There was no change to the $450 million notional value, the July 1, 2026 expiration date, the quarterly payment frequency or the designated three-month maturity from the Swap Amendment. The interest rate effectively fixed by the Swap on $450 million of the Company’s outstanding term loan debt through July 1, 2026 changed from 3.215% to 3.149% as a result of the Swap Amendment. 
+At December 31, 2022 and 2021, the $450 million notional value Swap had a fair value of $46.9 million and $7.8 million, respectively, which was included in other assets on the Consolidated Balance Sheets. For the years ended December 31, 2022 and 2021, the Company recognized income, net of tax, of $29.7 million and $13.5 million, respectively, in accumulated other comprehensive income (loss). For the years ended December 31, 2022 and 2021, the Company reclassified income of $3.7 million and a loss of $3.6 million, respectively, from accumulated other comprehensive income (loss) to interest expense and other financing costs on the Consolidated Statements of Operations. Refer to Note 12, Derivatives, for further information on the Swap.
+Contingent Consideration
+At December 31, 2022 and 2021, the Company had $230.4 million and $309.4 million, respectively, in contingent consideration that is estimated to be payable over the next one and three years resulting from the USAA AMCO and WestEnd Acquisitions. For the years ended December 31, 2022 and 2021, the Company recorded a decrease of $3.6 million and an increase of $13.8 million, respectively, in contingent payment liabilities associated with the USAA AMCO Acquisition. For the year ended December 31, 2022, the Company recorded a decrease of $37.0 million in contingent payment liabilities associated WestEnd Acquisition, which is included in consideration payable for acquisition of business in the Consolidated Balance Sheets.
+
+
+Advertising and Marketing Costs
+In December 2022, the Company entered into a long-term partnership with Spurs Sports & Entertainment and executed naming rights and partnership agreements for the team’s new performance center. The agreements, which end in 2033, grant the Company exclusive naming rights, sponsorship, signage, advertising and other promotional rights and benefits for the new performance center.
+  
+Payments made under the agreements are deferred and expensed on a straight-line basis over the term of the arrangement. The related advertising and marketing expense is recorded in general and administrative expense in the Consolidated Statements of Operations. The balance of amounts paid less amortized expense are included in the Consolidated Balance Sheets in other assets when cumulative payments exceed amortized expense and in other liabilities when amortized expense exceeds cumulative payments.
+Capital Requirements
+VCS is a registered broker‑dealer subject to the Uniform Net Capital requirements under the Exchange Act, which requires maintenance of certain minimum net capital levels. In addition, we have certain non‑U.S. subsidiaries that have minimum capital requirements. As a result, such subsidiaries of our Company may be restricted in their ability to transfer cash to their parents. VCS and our non‑U.S. subsidiaries were in compliance with these requirements as of and for the years ended December 31, 2022, 2021 and 2020.
+Cash Flows – The following table is derived from our Consolidated Statements of Cash Flows for the year ended December 31, 2022, 2021 and 2020.
+ 
+ 
+Year Ended December 31,
+ 
+(in thousands)
+ 
+2022
+ 
+ 
+2021
+ 
+ 
+2020
+ 
+Net cash provided by operating activities
+ 
+$
+ 
+335,211
+ 
+ 
+$
+ 
+376,196
+ 
+ 
+$
+ 
+250,616
+ 
+Net cash used in investing activities
+ 
+ 
+ 
+(6,317
+)
+ 
+ 
+ 
+(556,588
+)
+ 
+ 
+ 
+(12,340
+)
+Net cash (used in) provided by financing activities
+ 
+ 
+ 
+(360,186
+)
+ 
+ 
+ 
+227,217
+ 
+ 
+ 
+ 
+(252,696
+)
+ 
+Operating Activities
+2022 compared to 2021 – Cash provided by operating activities was $335.2 million in 2022, compared to $376.2 million in 2021. The $41.0 million net decrease in cash provided by operating activities was due to the combination of a $24.0 million decrease in working capital and a $14.2 million decrease in non-cash items. 
+2021 compared to 2020 – Cash provided by operating activities was $376.2 million in 2021, compared to $250.6 million in 2020. The $125.6 million net increase in cash provided by operating activities was due to the combination of a $65.9 million increase in net income and a $67.2 million net increase in working capital as a result of timing of account payable and accrued expenses. Partially offsetting were adjustments for certain non-cash items totaling $7.5 million. 
+Investing Activities
+2022 compared to 2021 – Cash used in investing activities decreased by $550.3 million to $6.3 million in 2022, from $556.6 million in 2021. The decrease was primarily due to $539.3 million paid in cash in the fourth quarter of 2021 related to the November 1, 2021 and December 31, 2021 closings of the NEC and WestEnd acquisitions, respectively. 
+2021 compared to 2020 – Cash used in investing activities increased by $544.3 million to $556.6 million in 2021, from $12.3 million in 2020. The increase was primarily due to $539.3 million paid in cash in the fourth quarter of 2021 related to the November 1, 2021 and December 31, 2021 closings of the NEC and WestEnd acquisitions, respectively. 
+Financing Activities
+2022 compared to 2021 – Cash used in financing activities increased $587.4 million to $360.2 million in 2022 compared to cash provided by financing activities of $227.2 million in 2021. The increase was primarily due to term loan prepayments, repurchases of our Common Stock, payment of dividends and payment of taxes related to settlement of equity awards and payment of consideration for acquisition of $149.1 million, $101.2 million, $69.2 million, $31.1 million and $23.8 million, respectively, during 2022. 
+2021 compared to 2020 – Cash provided by financing activities increased $479.9 million to $227.2 million in 2021 compared to cash used in financing activities of $252.7 million in 2020. The increase was due to $502.5 million of net proceeds from the Incremental Term Loans received in 2021, which was partially offset by term loan prepayments, repurchases of our Common Stock, payment of dividends and payment of taxes related to settlement of equity awards and payment of consideration for acquisition of $142.0 million, $31.5 million, $37.2 million, $26.7 million and $37.5 million, respectively, during 2021. 

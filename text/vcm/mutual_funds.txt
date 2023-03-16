@@ -1,0 +1,807 @@
+		Performance
+		Morningstar Rating™
+Showing: 56 of 56 funds of Mutual Fund Listing table sorted by undefined
+
+
+
+Showing: 56 of 56 funds
+Month-End Average 02/28/2023
+ Month-end  Quarter-end  Annual
+Ticker
+Fund Name
+Asset Class
+YTD
+1 yr.
+3 yr.
+5 yr.
+10 yr.
+Since Inception (%)
+Inception Date
+Exp. Rat. (Gross)
+Exp. Rat. (Net)
+Risk definition opens a dialog
+Risk 
+VFFMX
+Victory INCORE Fund for Income
+Fixed Income
+0.23
+-3.95
+N/A
+N/A
+N/A
+-2.93
+11/02/2020
+2.84%
+0.75%
+
+Conservative
+SBFMX
+Victory INCORE Investment Grade Convertible Fund
+Mixed Asset Class
+0.24
+-8.81
+N/A
+N/A
+N/A
+3.45
+11/02/2020
+3.79%
+1.10%
+
+Moderate
+MMMMX
+Victory Integrity Discovery Fund
+US Equity
+8.02
+-3.23
+N/A
+N/A
+N/A
+24.63
+11/02/2020
+1.99%
+1.50%
+
+Aggressive
+MMIJX
+Victory Integrity Mid-Cap Value Fund
+US Equity
+5.75
+-1.66
+N/A
+N/A
+N/A
+19.35
+11/02/2020
+1.97%
+0.85%
+
+Aggressive
+MMMSX
+Victory Integrity Small/Mid-Cap Value Fund
+US Equity
+8.16
+-1.91
+N/A
+N/A
+N/A
+24.20
+11/02/2020
+1.59%
+0.95%
+
+Aggressive
+RMOMX
+Victory RS Mid Cap Growth Fund
+US Equity
+5.00
+-18.97
+N/A
+N/A
+N/A
+-6.79
+11/02/2020
+5.66%
+1.05%
+
+Aggressive
+RSPMX
+Victory RS Partners Fund
+US Equity
+8.27
+3.44
+N/A
+N/A
+N/A
+25.16
+11/02/2020
+3.05%
+1.25%
+
+Aggressive
+RSMMX
+Victory RS Small Cap Equity Fund
+US Equity
+7.11
+-15.66
+N/A
+N/A
+N/A
+-10.09
+11/02/2020
+3.55%
+1.15%
+
+Aggressive
+USAUX
+USAA Aggressive Growth Fund
+US Equity
+8.94
+-15.69
+6.27
+6.41
+10.88
+8.61
+10/19/1981
+0.63%
+0.63%
+
+Aggressive
+USCBX
+USAA California Bond Fund
+Fixed Income
+0.33
+-6.66
+-2.02
+1.32
+2.23
+4.94
+08/01/1989
+0.55%
+0.55%
+
+Moderately Conservative
+USCGX
+USAA Capital Growth Fund
+Intl/Global Equity
+2.80
+-4.38
+10.28
+4.75
+8.99
+3.83
+10/27/2000
+1.09%
+1.09%
+
+Aggressive
+UCAGX
+USAA Cornerstone Aggressive Fund
+Mixed Asset Class
+2.61
+-6.39
+7.01
+4.19
+5.26
+6.12
+06/08/2012
+1.26%
+1.24%
+
+Aggressive
+USCCX
+USAA Cornerstone Conservative Fund
+Mixed Asset Class
+1.81
+-6.34
+0.75
+2.46
+3.02
+3.47
+06/08/2012
+0.54%
+0.54%
+
+Conservative
+USBSX
+USAA Cornerstone Moderate Fund
+Mixed Asset Class
+1.92
+-7.59
+2.98
+2.68
+3.80
+5.54
+09/01/1995
+1.14%
+1.14%
+
+Moderate
+USCRX
+USAA Cornerstone Moderately Aggressive Fund
+Mixed Asset Class
+2.17
+-7.19
+4.20
+3.03
+4.16
+7.26
+08/15/1984
+1.10%
+1.10%
+
+Moderately Aggressive
+UCMCX
+USAA Cornerstone Moderately Conservative Fund
+Mixed Asset Class
+1.91
+-7.75
+1.79
+2.16
+3.16
+3.94
+06/08/2012
+1.22%
+1.12%
+
+Moderately Conservative
+UCEQX
+USAA Cornerstone Equity Fund
+Intl/Global Equity
+3.50
+-7.58
+8.16
+4.19
+6.68
+7.62
+06/08/2012
+0.63%
+0.63%
+
+Very Aggressive
+USEMX
+USAA Emerging Markets Fund
+Intl/Global Equity
+2.95
+-14.65
+1.25
+-1.81
+0.82
+3.83
+11/07/1994
+1.47%
+1.47%
+
+Aggressive
+USMIX
+USAA Extended Market Index Fund
+US Equity
+8.54
+-9.70
+11.00
+7.76
+9.93
+7.66
+10/27/2000
+0.38%
+0.38%
+
+Aggressive
+UGMVX
+USAA Global Managed Volatility Fund
+Intl/Global Equity
+2.39
+-6.20
+7.20
+4.22
+N/A
+5.00
+07/12/2013
+1.05%
+0.90%
+
+Aggressive
+UGEIX
+USAA Global Equity Income Fund
+Intl/Global Equity
+0.95
+-4.82
+9.34
+5.88
+N/A
+6.02
+08/07/2015
+1.15%
+1.04%
+
+Aggressive
+USGNX
+USAA Government Securities Fund
+Fixed Income
+0.32
+-6.36
+-2.27
+0.78
+0.84
+4.34
+02/01/1991
+0.42%
+0.42%
+
+Moderately Conservative
+USGRX
+USAA Growth & Income Fund
+US Equity
+3.98
+-7.04
+9.93
+6.07
+10.01
+8.03
+06/01/1993
+0.81%
+0.81%
+
+Aggressive
+USAAX
+USAA Growth Fund
+US Equity
+9.92
+-13.35
+7.23
+7.11
+11.80
+6.99
+04/05/1971
+0.84%
+0.84%
+
+Aggressive
+USBLX
+USAA Growth and Tax Strategy Fund
+Mixed Asset Class
+2.03
+-9.16
+3.78
+4.90
+6.46
+6.58
+01/11/1989
+0.58%
+0.58%
+
+Moderately Conservative
+USHYX
+USAA High Income Fund
+Fixed Income
+2.72
+-4.81
+0.63
+1.81
+3.28
+5.82
+08/02/1999
+0.75%
+0.75%
+
+Moderate
+USAIX
+USAA Income Fund
+Fixed Income
+1.32
+-9.13
+-2.74
+1.28
+1.94
+7.25
+03/04/1974
+0.46%
+0.46%
+
+Moderately Conservative
+USISX
+USAA Income Stock Fund
+US Equity
+0.46
+-0.29
+11.23
+7.53
+9.68
+8.36
+05/04/1987
+0.70%
+0.70%
+
+Aggressive
+USIBX
+USAA Intermediate-Term Bond Fund
+Fixed Income
+1.75
+-8.43
+-1.75
+1.80
+2.34
+4.77
+08/02/1999
+0.65%
+0.65%
+
+Moderately Conservative
+USIFX
+USAA International Fund
+Intl/Global Equity
+5.10
+-4.81
+5.84
+1.99
+4.68
+6.81
+07/11/1988
+1.02%
+1.02%
+
+Aggressive
+USAXX
+USAA Money Market Fund
+Money Market
+0.68
+2.18
+0.78
+1.16
+0.66
+4.03
+01/30/1981
+0.62%
+0.62%
+
+Preservation of Capital
+USNYX
+USAA New York Bond Fund
+Fixed Income
+0.93
+-7.72
+-2.44
+0.96
+1.59
+4.87
+10/10/1990
+0.64%
+0.64%
+
+Moderately Conservative
+USNQX
+USAA Nasdaq-100 Index Fund
+US Equity
+10.15
+-15.07
+12.90
+12.45
+16.63
+6.38
+10/27/2000
+0.42%
+0.42%
+
+Aggressive
+USAGX
+USAA Precious Metals and Minerals Fund
+Sector and Alternative Strategies
+-4.17
+-19.33
+1.85
+5.41
+-2.45
+3.59
+08/15/1984
+1.12%
+1.12%
+
+Very Aggressive
+USSCX
+USAA Science & Technology Fund
+Sector and Alternative Strategies
+7.55
+-22.89
+0.05
+3.88
+12.12
+6.53
+08/01/1997
+0.95%
+0.95%
+
+Very Aggressive
+USSBX
+USAA Short-Term Bond Fund
+Fixed Income
+0.97
+-0.68
+0.82
+2.03
+1.72
+3.58
+06/01/1993
+0.56%
+0.56%
+
+Conservative
+USCAX
+USAA Small Cap Stock Fund
+US Equity
+9.01
+-5.30
+12.06
+8.27
+9.10
+7.22
+08/02/1999
+1.08%
+1.08%
+
+Aggressive
+USAWX
+USAA Sustainable World Fund
+Intl/Global Equity
+4.68
+-8.57
+7.86
+6.34
+8.25
+7.98
+10/01/1992
+1.05%
+1.05%
+
+Aggressive
+URTRX
+USAA Target Retirement 2030 Fund
+Mixed Asset Class
+2.71
+-6.50
+4.80
+3.57
+5.24
+5.96
+07/31/2008
+0.53%
+0.53%
+
+Moderate
+URFRX
+USAA Target Retirement 2040 Fund
+Mixed Asset Class
+3.17
+-6.93
+6.19
+3.96
+5.94
+6.03
+07/31/2008
+0.55%
+0.55%
+
+Moderately Aggressive
+URFFX
+USAA Target Retirement 2050 Fund
+Mixed Asset Class
+3.39
+-7.28
+7.09
+4.34
+6.35
+5.90
+07/31/2008
+0.58%
+0.58%
+
+Aggressive
+URSIX
+USAA Target Retirement 2060 Fund
+Mixed Asset Class
+3.48
+-7.31
+7.07
+4.22
+N/A
+6.03
+07/12/2013
+0.68%
+0.65%
+
+Aggressive
+URINX
+USAA Target Retirement Income Fund
+Mixed Asset Class
+2.04
+-5.50
+2.31
+2.92
+3.40
+4.48
+07/31/2008
+0.49%
+0.49%
+
+Conservative
+USATX
+USAA Tax Exempt Intermediate-Term Fund
+Fixed Income
+0.53
+-5.04
+-1.40
+1.66
+1.97
+5.84
+03/19/1982
+0.53%
+0.53%
+
+Moderately Conservative
+USTEX
+USAA Tax Exempt Long-Term Fund
+Fixed Income
+0.59
+-9.00
+-2.51
+1.05
+1.98
+6.36
+03/19/1982
+0.50%
+0.50%
+
+Moderately Conservative
+USEXX
+USAA Tax Exempt Money Market Fund
+Money Market
+0.37
+1.15
+0.49
+0.68
+0.42
+2.36
+02/06/1984
+0.57%
+0.56%
+
+Preservation of Capital
+USSTX
+USAA Tax Exempt Short-Term Fund
+Fixed Income
+0.32
+-2.11
+-0.47
+0.81
+0.80
+3.95
+03/19/1982
+0.56%
+0.56%
+
+Conservative
+UATXX
+USAA Treasury Money Market Trust
+Money Market
+0.66
+2.09
+0.73
+1.11
+0.62
+2.24
+02/01/1991
+0.37%
+0.35%
+
+Preservation of Capital
+USSPX
+USAA 500 Index Fund Member
+US Equity
+3.75
+-8.78
+11.89
+9.70
+12.05
+8.81
+05/01/1996
+0.24%
+0.24%
+
+Aggressive
+USPRX
+USAA 500 Index Fund Reward
+US Equity
+3.78
+-8.67
+12.01
+9.81
+12.16
+8.44
+05/01/2002
+0.18%
+0.15%
+
+Aggressive
+UUSTX
+USAA Ultra Short-Term Bond Fund
+Fixed Income
+1.26
+1.12
+1.21
+2.00
+1.49
+1.62
+10/18/2010
+0.62%
+0.62%
+
+Conservative
+UVALX
+USAA Value Fund
+US Equity
+2.34
+-1.21
+11.38
+5.80
+8.67
+7.53
+08/03/2001
+0.90%
+0.90%
+
+Aggressive
+USVAX
+USAA Virginia Bond Fund
+Fixed Income
+0.52
+-6.76
+-2.03
+0.94
+1.77
+4.66
+10/10/1990
+0.50%
+0.50%
+
+Moderately Conservative
+RSFMX
+Victory Floating Rate Fund
+Fixed Income
+3.98
+-2.32
+N/A
+N/A
+N/A
+2.20
+11/02/2020
+3.64%
+0.85%
+
+Moderate
+RHMMX
+Victory High Income Municipal Bond Fund
+Fixed Income
+0.60
+-11.28
+N/A
+N/A
+N/A
+-2.12
+11/02/2020
+2.63%
+0.67%
+
+Moderate
+CBHMX
+Victory Market Neutral Income Fund
+Sector and Alternative Strategies
+3.66
+-0.43
+N/A
+N/A
+N/A
+2.54
+11/02/2020
+1.08%
+0.58%
+
+Moderately Conservative

@@ -45,6 +45,12 @@ def lambda_handler(event, context):
             elif intent_name == "AMAZON.NoIntent":
                 print('NoIntent')
                 return on_no_intent()
+            elif intent_name == "AMAZON.CancelIntent":
+                print('CancelIntent')
+                return on_cancel_intent()
+            elif intent_name == "AMAZON.HelpIntent":
+                print('HelpIntent')
+                return on_help_intent()
         else:
             return {
                 "version": "1.0",
@@ -57,7 +63,31 @@ def lambda_handler(event, context):
                 }
             }
 
-# Add these two new functions
+def on_cancel_intent():
+    return {
+        "version": "1.0",
+        "response": {
+            "outputSpeech": {
+                "type": "PlainText",
+                "text": "Do you have a additional request for me?"
+            },
+            "shouldEndSession": False
+        }
+    }
+
+def on_help_intent():
+    return {
+        "version": "1.0",
+        "response": {
+            "outputSpeech": {
+                "type": "PlainText",
+                "text": "Sure, You can simply ask me any question and I'll try to answer it based on my knowledge base. If you want to exit the skill, simply say 'STOP'. What would you like to know?"
+            },
+            "shouldEndSession": False
+        }
+    }
+
+
 def on_yes_intent():
     return {
         "version": "1.0",
